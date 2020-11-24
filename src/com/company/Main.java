@@ -16,10 +16,16 @@ public class Main {
         Love.radius="7000km";
         Love.temperature="40000c";
 
+
         PlanetEmpathy Empathy =new PlanetEmpathy();
         Empathy.size="100000Km";
         Empathy.color="Blue";
         
+
+        PlanetHonesty Honesty = new PlanetHonesty();
+        Honesty.color="white";
+        Honesty.Size="700000km";
+
 
     }
 }
