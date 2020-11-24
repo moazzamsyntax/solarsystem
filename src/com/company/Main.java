@@ -12,9 +12,9 @@ public class Main {
         WEDO.Planets=2;
 
         sun Love= new sun();
-        Love.heat=500kj;
-        Love.radius=7000km;
-        Love.temperature=40000c;
+        Love.heat="500kj";
+        Love.radius="7000km";
+        Love.temperature="40000c";
 
     }
 }
