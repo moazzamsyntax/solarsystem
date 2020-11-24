@@ -8,11 +8,13 @@ public class Main {
 
         SolarSystem WEDO = new SolarSystem();
         WEDO.Sun=1;
-        WEDO.Moon=7;
+        WEDO.Moon=3;
         WEDO.Planets=2;
 
-
-
+        sun Love= new sun();
+        Love.heat=500kj;
+        Love.radius=7000km;
+        Love.temperature=40000c;
 
     }
 }
