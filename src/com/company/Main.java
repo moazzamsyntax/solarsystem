@@ -14,6 +14,14 @@ public class Main {
         Faith.Color="Yellow";
         Faith.Size="8000km";
 
+        Moon mymoon =new Moon();
+        mymoon.color="pink";
+        mymoon.size="9000098km";
+
+        PlanetEmpathy Empathy =new PlanetEmpathy();
+        Empathy.Color="blued";
+        Empathy.ring="yes";
+
 
         sun Love= new sun();
         Love.heat="500kj";
