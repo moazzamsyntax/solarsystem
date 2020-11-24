@@ -10,6 +10,10 @@ public class Main {
         WEDO.Sun=1;
         WEDO.Moon=7;
         WEDO.Planets=2;
+        MoonFaith Faith =new MoonFaith();
+        Faith.Color="Yellow";
+        Faith.Size="8000km";
+
 
 
 
