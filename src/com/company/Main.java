@@ -7,6 +7,10 @@ public class Main {
 
 
         SolarSystem WEDO = new SolarSystem();
+        WEDO.Sun=1;
+        WEDO.Moon=7;
+        WEDO.Planets=2;
+
 
 
 
