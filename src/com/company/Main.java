@@ -8,7 +8,7 @@ public class Main {
 
         SolarSystem WEDO = new SolarSystem();
         WEDO.Sun=1;
-        WEDO.Moon=7;
+        WEDO.Moon=3;
         WEDO.Planets=2;
         MoonFaith Faith =new MoonFaith();
         Faith.Color="Yellow";
@@ -23,7 +23,20 @@ public class Main {
         Empathy.ring="yes";
 
 
+        sun Love= new sun();
+        Love.heat="500kj";
+        Love.radius="7000km";
+        Love.temperature="40000c";
 
+
+        PlanetEmpathy Empathy =new PlanetEmpathy();
+        Empathy.size="100000Km";
+        Empathy.color="Blue";
+        
+
+        PlanetHonesty Honesty = new PlanetHonesty();
+        Honesty.color="white";
+        Honesty.Size="700000km";
 
 
     }
