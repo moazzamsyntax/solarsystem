@@ -16,5 +16,9 @@ public class Main {
         Love.radius="7000km";
         Love.temperature="40000c";
 
+        PlanetHonesty Honesty = new PlanetHonesty();
+        Honesty.color="white";
+        Honesty.Size="700000km";
+
     }
 }
